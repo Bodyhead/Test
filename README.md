@@ -93,7 +93,7 @@ been incorrectly assumed to be unwanted.</p>
 organized. I keep a folder for SALES, another one for
 FEEDBACK and others for JOINT VENTURES + many more. </p>
 
-<p><a href="files/time.pdf">Скачать эту статью в формате PDF></a></p>
+<p><a href="files/time.pdf">Скачать эту статью в формате PDF</a></p>
 <p><a href="#header">В начало</a></p>
 <p><a href="#test">К статье</a></p>
 <p><a href="mailto:zmey.ukraina@mail.ru">Связаться с автором статьи</a></p>
